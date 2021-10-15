@@ -1,4 +1,4 @@
-### Hello World! I'm Elisa Resend and study front-end. 💻
+### Hello World! I'm Elisa Resend.
 
 <div align="center">
   <a href="https://github.com/elisaresend">
