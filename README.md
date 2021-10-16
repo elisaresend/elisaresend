@@ -2,8 +2,8 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/elisaresend">
-  <img height="135em" float="left" src="https://github-readme-stats.vercel.app/api?username=elisaresend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="135em" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaresend&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" float="left" src="https://github-readme-stats.vercel.app/api?username=elisaresend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaresend&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
