@@ -14,7 +14,7 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="elisa-img" align="right" height="200" width="200" position="absolute" top="50" src="https://share-cdn.picrew.me/shareImg/org/202110/42922_S8hUkCbX.png">
+    <img alt="elisa-img" align="right" height="100" width="100" position="absolute" top="50" src="https://share-cdn.picrew.me/shareImg/org/202110/42922_S8hUkCbX.png">
  </p>
   </p>
   
