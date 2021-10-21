@@ -2,8 +2,8 @@
 
 <div align="center" display="inline-block">
   <a href="https://github.com/elisaresend">
-  <img height="130em" float="left" src="https://github-readme-stats.vercel.app/api?username=elisaresend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaresend&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="120em" float="left" src="https://github-readme-stats.vercel.app/api?username=elisaresend&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="120em" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaresend&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
@@ -14,7 +14,7 @@
     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img alt="elisa-img" align="right" height="100" width="100" position="absolute" src="https://share-cdn.picrew.me/shareImg/org/202110/42922_S8hUkCbX.png">
+    <img alt="elisa-img" align="right" height="110" width="110" position="absolute" src="https://share-cdn.picrew.me/shareImg/org/202110/42922_S8hUkCbX.png">
  </p>
  
   
