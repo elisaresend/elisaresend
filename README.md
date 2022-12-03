@@ -1,4 +1,4 @@
-### <div align="center"> Hello World! I'm Elisa Resend. </div>
+### <div align="center"> Hello World! I'm Elisabete Resende. </div>
 
 <div align="center" display="inline-block"><br>
   <a href="https://github.com/elisaresend">
@@ -9,6 +9,8 @@
  <div align="center">
   
    ![Snake animation](https://github.com/elisaresend/elisaresend/blob/output/github-contribution-grid-snake.svg)
+   ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+   ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
    
  </div>
   
