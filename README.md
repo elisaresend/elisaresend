@@ -6,12 +6,6 @@
   <img height="120em" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisaresend&layout=compact&langs_count=7&theme=radical"/>
 </div></br>
   
- <div align="center">
-  
-   ![Snake animation](https://github.com/elisaresend/elisaresend/blob/output/github-contribution-grid-snake.svg)
-   
- </div>
-  
 <div align="center">
   <p>
     <img align="center" alt="elisa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
