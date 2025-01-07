@@ -1,4 +1,4 @@
-### <div align="center"> Hello World! I'm Elisabete Resende. </div>
+### <div align="center"> Hello World!</div>
 
 <div align="center" display="inline-block"><br>
   <a href="https://github.com/elisaresend">
